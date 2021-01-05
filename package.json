@@ -1,0 +1,19 @@
+{
+  "name": "chatbot-fit-telegram",
+  "version": "1.0.0",
+  "description": "Chatbot fit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasfariasm/chatbot-fit-telegram.git"
+  },
+  "author": "Lucas Farias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasfariasm/chatbot-fit-telegram/issues"
+  },
+  "homepage": "https://github.com/lucasfariasm/chatbot-fit-telegram#readme"
+}
