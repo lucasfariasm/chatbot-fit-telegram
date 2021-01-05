@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "chatbot-fit-dutu",
+  "private_key_id": "f7bba8e7d72df4546914d591a910ef665310cf18",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC4yJuF1IPn66eb\nSMGCLgi3eoLsZy7ORkaYGNN3nXEnThhUzCvXakad2x0fqyNhe9BTfsGm+8vXIxLi\nTLEZuPnwQDJxSZm2qahN3xqCLviOw9qPMuLi+aP9HrV9Qdtc12eYgJ0/p9S37tRj\n+ADQCcdV5z+dlDfBmIrzXQRPBOwR6O2x7ZriAw3t6zT/1auvXGsfQqZTO1uunLy6\nmWw2/OqNsyRy/9gRBDH/CPHZsbHdbimfYhZcaYWawHbvOCL9OkZEyCK1va3ZhozW\nvb7mXqOrYlqx107MZz0WN2xBspzXPCtfk3Y/paTklyJX9thmvudIah8n4NDefTEN\ny0LbyoULAgMBAAECggEAC0srgjb2ZubWxB1iwleY7cndlaBK0o2mA+bEifOD9nCF\n+SzPYyeaMEyzj3twuqUMGwZMxK1wDHKW1WD1lApjsETkMFtcuzbMVBIWNy2ywFsF\nESp9hnzWgoJtej3br+V0bfQyaDEURbehoIiIWC640a3EDBgCfmEZ4Pzm5gN5gDCe\n98Gcs5GEmgs4/4+/k2kaIoyDwIy+wAPdkc+kqZUI6KXu0/J+A0W37WQMUMmgIzaP\nkfE/ywcoOeXj5E206Mgj3ta7VxnkQyfuV7xIh/kmGI8B7/aWquEXbgsE41TyZ3pN\n2t910sXiRx17GJ7gtSMKpHdIi9nH9kM5txQDDvOXWQKBgQD6pjq9TmhImf+WGtoM\nIXHqKpj/k9pHIHDxi1CrPKB033JCSj1Fy9ni7BzkAGEUtIdY5o4tsiz1C0g2HRrL\n4zlh0zhlR03hUnBzI8bn2oFZ6H4/sykNqEf2/BQRMd33r+tN953iQrRKP73Cts8p\nWWV1zV94hg9OHFP7ZnvtnnsuSQKBgQC8um3oNNdAtMpaCv6uqM/JGlRPNz8fsP7s\nBjUBtOBHbbZa/iRkNF+he0rKZm/GnfnX0Ob4uJ63q86tAvgZCyw3DSYlTJzFFDEi\notmt1q2SxIOhXzfhf6jjin+2j8Lk+YJwfQ/lt30wyBSCviQNQfcQjrMGz6+2lp/1\nsKiT1//oswKBgQCrhACB9htqQucgojM/Rcubv5Z+nYAqV8qxnvGOm6f5EcYwEnkn\nP71TiNqkMpY8AuTzMqFsJ5aYACZj0Tq69jwX8t+OfmKOo0kLoRnFIkKNcYiiskiP\nbe4A1rIsqgEIMrtD2QOTBq40eLWzfkD4PJIvMF/6K1Jh0wSs7Y40JdSI8QKBgCc+\nrTQoKMqvzZRDzQoM2Ih9DSMb3eh9KcVy1Prx3eF8kvsA9hhQO8KcnMTR4FRw7U9P\nhXgbDAYtl+CqSWULybn45gHDmKXyuPT24EUh6x4l9ylLX5dosHoAhuYzptduew1h\nNDkUmtfWA03ctCp9mR68TcYQ0f0p/UFd5vA3bmO5AoGAA3CEP3aXtGkxlHt0IJT8\nUQwgrnS+XaFLUdHibD1Yy1/wFrfDw/rB5OIWT3qjbSdbm4tsVmY86gpSefh2EEKq\n/ZvfLfDjkXhcKDqkkR7PCK/NHpqCrjpenes9eynBStDw19Gwa6HF0C8/8t/x31rd\n5aVckhLOG19kZRitIYtLMK4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "always-fit@chatbot-fit-dutu.iam.gserviceaccount.com",
+  "client_id": "106796767542036305053",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/always-fit%40chatbot-fit-dutu.iam.gserviceaccount.com"
+}

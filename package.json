@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/lucasfariasm/chatbot-fit-telegram#readme",
   "dependencies": {
+    "dialogflow": "^1.2.0",
     "node-telegram-bot-api": "^0.51.0"
   }
 }
