@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lucasfariasm/chatbot-fit-telegram/issues"
   },
-  "homepage": "https://github.com/lucasfariasm/chatbot-fit-telegram#readme"
+  "homepage": "https://github.com/lucasfariasm/chatbot-fit-telegram#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.51.0"
+  }
 }
